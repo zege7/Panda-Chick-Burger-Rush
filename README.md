@@ -3,7 +3,7 @@
 A 3D cooking simulation game built with Unity and C#. This project was developed by expanding upon the foundation of CodeMonkey's cooking game tutorial, introducing custom mechanics, new recipes, and interactive obstacles.
 
 ## 🎮 Gameplay 
-### [▶️ Click Here to Watch the Gameplay Video](https://github.com/zege7/Panda-Chick-Burger-Rush/releases/download/v1.0.0/video-Panda.Chick.Burger.Rush.2026-01-12.13-56-35.mp4)
+### [Click Here to Watch the Gameplay Video](https://github.com/zege7/Panda-Chick-Burger-Rush/releases/download/v1.0.0/video-Panda.Chick.Burger.Rush.2026-01-12.13-56-35.mp4)
 
 ## ✨ Custom Features & Additions
 * **Character Selection:** Players can choose to play as a custom Panda or a Chick from the main menu.
